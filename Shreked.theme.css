@@ -1,17 +1,16 @@
 /**
  * @name Shreked
- * @author ClearVision Team
- * @version 6.9.0
- * @description Highly customizable and beautiful theme for BetterDiscord.
- * @source https://github.com/ClearVision/ClearVision-v6
- * @website https://clearvision.github.io
- * @invite dHaSxn3
- * @BDEditor Clear Vision
+ * @author LukeyWookey
+ * @version 1.
+ * @description A Shrek theme.
+ * @source https://github.com/LukeyWookey/Shreked
+ * @website https://github.com/LukeyWookey/Shreked
+ * @invite 
+ * @BDEditor Lukey Wookey
 */
 
-@import url('https://fonts.googleapis.com/css2?family=Darius:wght@100;300;400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,600;1,700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@100;300;400;500;700&display=swap');
-@import url('https://clearvision.github.io/ClearVision-v6/main.css');
 
 :root {
   --main-color: #152D72;
@@ -19,7 +18,7 @@
   --success-color: #52E58E;
   --danger-color: #982929;
   --url-color: #607CCB;
-  --background-image: url('https://i.redd.it/bp5auy343ru61.png');
+  --background-image: url('https://github.com/LukeyWookey/Shreked/blob/main/shrek.png?raw=true');
   --background-shading: 75%;
   --background-position: center;
   --background-size: cover;
@@ -32,7 +31,7 @@
   --background-invert: 0%;
   --background-blur: 1px;
   --background-overlay: rgba(0,0,0,0.6);
-  --user-popout-image: url('https://clearvision.github.io/images/sapphire.jpg');
+  --user-popout-image: url('https://github.com/LukeyWookey/Shreked/blob/main/shrek.png?raw=true');
   --user-popout-position: center;
   --user-popout-size: cover;
   --user-popout-repeat: no-repeat;
@@ -43,7 +42,7 @@
   --user-popout-grayscale: 0%;
   --user-popout-invert: 0%;
   --user-popout-blur: 3px;
-  --user-modal-image: url('https://i.redd.it/bp5auy343ru61.png');
+  --user-modal-image: url('https://github.com/LukeyWookey/Shreked/blob/main/shrek.png?raw=true');
   --user-modal-position: center;
   --user-modal-size: cover;
   --user-modal-repeat: no-repeat;
@@ -65,7 +64,7 @@
   --dnd-color: #982929;
   --streaming-color: #593695;
   --offline-color: #808080;
-  --main-font: Darius;
+  --main-font: Montserrat;
   --code-font: Fira Code;
   --channels-width: 220px;
   --members-width: 200px;
